@@ -1,4 +1,5 @@
 public interface Rankable {
+   
     //Member 4 
     //Made by Nur Syukrinah binti Suhaidi
 
